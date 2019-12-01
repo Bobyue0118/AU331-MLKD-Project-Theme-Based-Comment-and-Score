@@ -1,2 +1,2 @@
-# AU331-MLKD-Project-Theme-Based-Comment&Score
+# AU331-MLKD-Project-Theme-Based-Comment-and-Score
 AU331
