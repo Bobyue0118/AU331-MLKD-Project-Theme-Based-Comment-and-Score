@@ -22,6 +22,6 @@
 ## Data Sources
 豆瓣，主要爬取20部中国国产电影
 ## Word Embeddings
-内容：vec_100d.txt(≈500M)
+内容：vec_100d.txt(≈500M)  
 链接：[https://pan.baidu.com/s/1sFK48lQ1F7QIMFhMlCwtsw](https://pan.baidu.com/s/1sFK48lQ1F7QIMFhMlCwtsw)  
 提取码：on0k
