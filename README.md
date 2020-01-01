@@ -21,3 +21,6 @@
 岳博，潘鼎，徐加声 上海交通大学自动化系
 ## Data Sources
 豆瓣，主要爬取20部中国国产电影
+## Word Embeddings
+链接[百度网盘链接](https://pan.baidu.com/s/1sFK48lQ1F7QIMFhMlCwtsw)  
+提取码：on0k
