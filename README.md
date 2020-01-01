@@ -9,7 +9,8 @@
 - 基于主体限制 & 注意力机制的影评生成模型
 ![image](https://github.com/Bobyue0118/AU331-MLKD-Project-Theme-Based-Comment-and-Score/blob/master/assets/%E5%BD%B1%E8%AF%84%E7%94%9F%E6%88%90%E6%A8%A1%E5%9E%8B2.png)
 ## Idea
-以Gated Recurrent Unit(GRU)为核心，结合注意力机制(attention mechanism)、集束搜索(beam search)、adaptive_softmax等策略。
+- 以Gated Recurrent Unit(GRU)为核心
+- 结合注意力机制(attention mechanism)、集束搜索(beam search)、adaptive_softmax等策略
 ## To be Polished
 1. 努力学习，广泛涉猎，改进网络
 2. 适用其他文学体裁，比如：书评，音乐评论等
@@ -19,4 +20,4 @@
 ## Project Participant
 岳博，潘鼎，徐加声 上海交通大学自动化系
 ## Data Sources
-豆瓣，主要爬取20部中国国产电影。
+豆瓣，主要爬取20部中国国产电影
